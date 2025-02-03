@@ -1,5 +1,9 @@
 ---
 title: Welcome to my blog
-Hi
+<html>
+  <body>
+    <h1>Hi</h1>
+  </body>
+</html>
 ---
 
